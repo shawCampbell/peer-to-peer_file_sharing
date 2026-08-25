@@ -1,4 +1,4 @@
-## This is a university project I did in our concurrency and parallelism course
+**Note:** This is a university project I did in our concurrency and parallelism course
 
 # Peer-to-Peer File Sharing System
 This system allows peers of a network, who are registered with a tracker to download files in parallel from other peers on the network.
