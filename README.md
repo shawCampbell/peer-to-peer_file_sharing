@@ -11,8 +11,16 @@ This system allows peers of a network, who are registered with a tracker to down
 
 ## Screenshots of use:
 This process is shown in the screenshots below:
-![Alt text](https://github.com/shawCampbell/p2p/blob/main/images/Screenshot%20from%202025-03-16%2019-20-05.png)
-![Alt text](https://github.com/shawCampbell/p2p/blob/main/images/Screenshot%20from%202025-03-16%2019-20-33.png)
-![Alt text](https://github.com/shawCampbell/p2p/blob/main/images/Screenshot%20from%202025-03-16%2019-21-21.png)
-![Alt text](https://github.com/shawCampbell/p2p/blob/main/images/Screenshot%20from%202025-03-16%2019-21-45.png)
-![Alt text](https://github.com/shawCampbell/p2p/blob/main/images/Screenshot%20from%202025-03-16%2019-22-07.png)
+<p align="center">Step 1</p>
+<p align="center"><img src="/images/Screenshot%20from%202025-03-16%2019-20-05.png" alt=""></p>
+<p align="center">Step 2</p>
+<p align="center"><img src="/images/Screenshot%20from%202025-03-16%2019-20-33.png" alt=""></p>
+<p align="center">Step 3</p>
+<p align="center"><img src="/images/Screenshot%20from%202025-03-16%2019-21-21.png" alt=""></p>
+<p align="center">Step 4</p>
+<p align="center"><img src="/images/Screenshot%20from%202025-03-16%2019-21-45.png" alt=""></p>
+<p align="center">Step 5</p>
+<p align="center"><img src="/images/Screenshot%20from%202025-03-16%2019-22-07.png" alt=""></p>
+
+
+
